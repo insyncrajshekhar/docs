@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/customer-2.png
     alt: "customizable"
     title: "Customers"
-    excerpt: "Learn how to use APPSeCONNECT."
+    excerpt: "Learn how to use APPSeCONNECT.."
     url: ""
     btn_class: "btn--primary"
     btn_label: "Learn More"
